@@ -3,14 +3,14 @@ In this repo you find the initial version and the final version of the video tut
 
 The tutorial covers the following symboles: 
 
-[agenda](agenda-grey.png)
+![agenda](agenda-grey.png)
 
 
 ## The initial model
 
-[initial-model](initial.png)
+![initial-model](initial.png)
 
 
 ## The final model
 
-[final-model](final.png)
+![final-model](final.png)
